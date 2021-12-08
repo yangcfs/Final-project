@@ -14,5 +14,7 @@
 - A javascript library 
 - Simplifies javascript programming 
 
-[ReadMe](https://github.com/yangcfs/Final-project/blob/main/README.md)
-[Content]()
+![image](https://hext.to/wp-content/uploads/2018/12/shutterstock_1181290198-Converted-1920.jpg)
+
+- [ReadMe](https://github.com/yangcfs/Final-project/blob/main/README.md)
+- [Content](https://github.com/yangcfs/Final-project/blob/main/Content.md)
