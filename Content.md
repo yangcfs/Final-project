@@ -10,7 +10,7 @@
 - Difference between GET and POST 
   1. GET requests can be cached, can not be used to send sensitive data,have length restrictions,only used to request data not modify.
   2. POST is used to send data to a server to create get	Default. Appends the form-data to the URL in name/value pairs: URL?name=value&name=value
-
-
-[ReadMe](https://github.com/yangcfs/Final-project/blob/main/README.md)
-[Concepts](https://github.com/yangcfs/Final-project/edit/main/Concepts.md)
+  
+![image](https://dz2cdn1.dzone.com/storage/temp/12721356-pic-html-on-page.jpg)
+- [ReadMe](https://github.com/yangcfs/Final-project/blob/main/README.md)
+- [Concepts](https://github.com/yangcfs/Final-project/edit/main/Concepts.md)
